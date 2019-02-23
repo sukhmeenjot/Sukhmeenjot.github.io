@@ -6,5 +6,5 @@ As I decides to go for asymmetric design trend. This week I search fo asymmetric
 # Progress
 * I have created design on my notebook.
 * Decided the color pallete.
-* Software I am going to use.
-* created some shapes for upper body of the design.
+* Finalize Software I am going to use.
+* Created some shapes for upper body of the design.
