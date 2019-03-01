@@ -8,4 +8,5 @@ automobile company. For the poster I am going to use asymmetric design trend to 
 * Collected some data for my project.
 * created a draft layout.
 
-# Next week 
+# Next week Plan 
+For the next week I am hoping that I will come up with final color Pallet and final layout.
