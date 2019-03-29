@@ -9,7 +9,7 @@ I have learned many lessons, which are given below:-
 ## Asymmetric Design Trend 
 
 1. Asymmetrical design are also implied in real life. It also come in notice, that asymmetrical design fundamentals are also used for interior designing . Many interior designer follows this trend to decorate home and offices.
-2. I learned that asymmetric desgin  are very wide and currently they are counted in latest trend.
+2. I learned that asymmetric desgins  are very wide and currently they are counted in latest trend.
 3. I also learned that , you can modify asymmetric design according to your topic, they are very comfortable to go with any
 design.
 
