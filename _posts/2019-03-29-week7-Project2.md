@@ -1,5 +1,8 @@
 # Week 7
 ## [Update for week 7]({% post_url 2019-03-29-week7-Project2 %})
+I finished my project 2, It was Poster for car showroom opening. I already uploaded the tutorial for more details that how I
+created the poster. To Evaluate my progess with respect to intial goals, I would I like to say that I meet 99% my goals. This time lack with only 1% , because at the begining I choosed wrong software. Overall , this time project goes really well. In this project I almost meet my expectations, but as expectations for the project change over time 
+
 Today is the last day of my Mini project. I am going to present in the class what I have done so far. To Evaluate my progess 
 with respect to intial goals, I would I like to say that I meet 95% my goals. Only 5% of my goals is effected, because of 
 time. To talk about expectations for the project change over time is like that,Intially I was thinking to create whole mockup
