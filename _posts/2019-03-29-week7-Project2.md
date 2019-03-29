@@ -32,3 +32,6 @@ Everything else goes very smooth and well during whole project.
 # Future Work
 I really like working on poster, It was kind of different experience for me to create somthing like that, before that I  created mockups and logos by using Asymmetric design trends. I think, for future, I am going to use Asymmetric design trend for more things like to design  book covers, fashion clothes and for interior designing. In future , I am going try more Asymmetric designs and also play with them.
 
+# Summary
+I would like to summarize my project and my experience with Asymmetric design trend. It was really different experience for me. I never tried any thing like this before. I would like to thank Jordan Miller and Langara college , who provide me path to enhance my skill in every way. This Project really put good impact on my designing skills and also on my imagination. This project built my interest in design trends, I would love to take it more further.
+
