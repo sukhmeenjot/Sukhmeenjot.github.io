@@ -1,5 +1,5 @@
-# Week 5
-## [Update for week 5]({% post_url 2019-02-08-week5 %})
+# Week 7
+## [Update for week 7]({% post_url 2019-03-29-week7-Project2 %})
 Today is the last day of my Mini project. I am going to present in the class what I have done so far. To Evaluate my progess 
 with respect to intial goals, I would I like to say that I meet 95% my goals. Only 5% of my goals is effected, because of 
 time. To talk about expectations for the project change over time is like that,Intially I was thinking to create whole mockup
