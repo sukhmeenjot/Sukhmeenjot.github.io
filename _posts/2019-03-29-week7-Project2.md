@@ -1,7 +1,7 @@
 # Week 7
 ## [Update for week 7]({% post_url 2019-03-29-week7-Project2 %})
 I finished my project 2, It was Poster for car showroom opening. I already uploaded the tutorial for more details that how I
-created the poster. To Evaluate my progess with respect to intial goals, I would I like to say that I meet 99% my goals. This time, I lack with only 1% , because at the begining I choosed wrong software. Overall , this time project goes really well. In this project I almost meet my expectations, but as expectations for the project change over time , in this project design part took more part, because it was alot to search about asymmetric design trends. I tried various color pallete and design to go with my poster. That's the part where time effected my project.
+created the poster. To Evaluate my progess with respect to intial goals, I would I like to say that I meet 99% my goals. This time, I lack with only 1% , because at the begining I choosed wrong software. Overall , this time project goes really well. In this project I almost meet my expectations, but as expectations for the project change over time , in this project design part took more part, because it was alot to search about asymmetric design trends. I tried various color palette and design to go with my poster. That's the part where time effected my project.
 
 # Lessons Learned
 I have learned many lessons, which are given below:-
@@ -22,20 +22,11 @@ design.
 
 ## Problems
 1. The first problem I faced by choosing wrong software. At the beginning choose sketch to create my poster, but sketch was missing many things, which I need for my project. And also I was less familiar with the Sketch. But, then I moved to Adobe Ilustrator.
+2. I had little stuck, to choose color palette for my project and also for image part.
 
+Everything else goes very smooth and well during whole project.
 
-
-
-
-
-
-
-I have Learned so many lessons during this project, for example the reizing to cannot make your design fully responsive, it 
-just fix the position of your icons and other items. I also learn many lessons like that never give up on searching new thing.
-It will help you alot to improve your design and imaginations. There was only one unexpected challenge that I faced during 
-work is that my free trail end way before than actual end date, like I get only 5 day free trail instead of 30 day. It is generally 30 day free trail.
 
 # Future Work
-I have some future plans to use this software. Currently I am working on one project with my team. I think I can use this software to help them to create some good mockups for our project website. Rather than that I am thinking to use this software 
-for rest of carrier, so that I will dig more into this software. Its really good for deginers and I see myself as a good future designer.
+I really like working on poster, It was kind of different experience for me to create somthing like that, before that I  created mockups and logos by using Asymmetric design trends. I think, for future, I am going to use Asymmetric design trend for more things like to design  book covers, fashion clothes and for interior designing. In future , I am going try more Asymmetric designs and also play with them.
 
