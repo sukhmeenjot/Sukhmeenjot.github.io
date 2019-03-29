@@ -1,4 +1,6 @@
 # Week 7
+
+[tutorial](https://github.com/sukhmeenjot/Sukhmeenjot.github.io/blob/master/Tutorial_sukhmeenjot_Kaur.pdf)
 ## [Update for week 7]({% post_url 2019-03-29-week7-Project2 %})
 I finished my project 2, It was Poster for car showroom opening. I already uploaded the tutorial for more details that how I
 created the poster. To Evaluate my progess with respect to intial goals, I would I like to say that I meet 99% my goals. This time, I lack with only 1% , because at the begining I choosed wrong software. Overall , this time project goes really well. In this project I almost meet my expectations, but as expectations for the project change over time , in this project design part took more part, because it was alot to search about asymmetric design trends. I tried various color palette and design to go with my poster. That's the part where time effected my project.
