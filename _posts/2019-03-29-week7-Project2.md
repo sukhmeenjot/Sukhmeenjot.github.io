@@ -11,7 +11,7 @@ I have learned many lessons, which are given below:-
 1. Asymmetrical design are also implied in real life. It also come in notice, that asymmetrical design fundamentals are also used for interior designing . Many interior designer follows this trend to decorate home and offices.
 2. I learned that asymmetric desgins  are very wide and currently they are counted in latest trend.
 3. I also learned that , you can modify asymmetric design according to your topic, they are very comfortable to go with any
-design.
+theme.
 
 ## During Project
 1. I learned many lessons , during working on my project. For a good design, you need good platform , the one you are feeling  comfortable with.
